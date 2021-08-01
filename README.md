@@ -1,8 +1,4 @@
-{% note %}
-
 **Note:** This is a fork of https://gitlab.com/vedanuj/vqa-maskrcnn-benchmark
-
-{% endnote %}
 
 # Faster R-CNN and Mask R-CNN in PyTorch 1.0
 
